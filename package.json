@@ -1,0 +1,19 @@
+{
+  "name": "test-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vending-machine.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mocha": "^3.4.2",
+    "moment": "^2.18.1",
+    "superagent": "^3.5.2",
+    "supertest": "^3.0.0"
+  }
+}
