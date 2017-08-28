@@ -44,11 +44,6 @@ server.listen(3000, function () {
 });
 
 
-// if (require.main === "module") {
-//   application.listen(3000, function () {
-//     console.log('Express running on http://localhost:3000/.')
-//   });
-// }
-// application.listen(3000);
+
 module.exports = server;
 
